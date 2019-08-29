@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>Hi RedHat OpenShift Container Platform</p>'; ?> 
+ <?php echo '<p>Hello PHP 7.0 OpenShift Container Platform!!!Hi Pawan & Nabarun</p>'; ?> 
  </body>
 </html>
