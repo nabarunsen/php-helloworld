@@ -1,0 +1,1 @@
+Hello PHP 7.0 OpenShift Container Platform!!!Hi Pawan & Nabarun
